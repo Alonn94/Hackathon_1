@@ -1,0 +1,38 @@
+[
+    {
+        "id": 5,
+        "employee_id": 11,
+        "leave_type": "sick leave",
+        "duration": 5,
+        "request_details": "march 2-7th",
+        "status": "Rejected",
+        "processed_by": 1
+    },
+    {
+        "id": 4,
+        "employee_id": 7,
+        "leave_type": "vacation",
+        "duration": 0,
+        "request_details": "beginning march",
+        "status": "Rejected",
+        "processed_by": 1
+    },
+    {
+        "id": 3,
+        "employee_id": 11,
+        "leave_type": "Vacation",
+        "duration": 2,
+        "request_details": "Over the next weekend, need a break",
+        "status": "Pending",
+        "processed_by": null
+    },
+    {
+        "id": 1,
+        "employee_id": 7,
+        "leave_type": "Vacation",
+        "duration": 0,
+        "request_details": "burnout",
+        "status": "Approved",
+        "processed_by": 1
+    }
+]
